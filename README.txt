@@ -9,7 +9,7 @@ Prosty walidator harmonogramu czasu pracy napisany w języku Java. Program czyta
 ## Jak uruchomić program
 
 1. Sklonuj to repozytorium na swój komputer:
-git clone https://github.com/Zakajasz/EvidenChallenge2
+git clone https://github.com/Zakajasz/EvidenChallenge2.git
 
 2. Przejdź do folderu z projektem:
 cd EvidenChallenge2
